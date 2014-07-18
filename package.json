@@ -1,0 +1,25 @@
+{
+  "name": "diamonds",
+  "version": "0.0.1",
+  "author": "John Manero <john.manero@gmail.com>",
+  "description": "Carbon that doesn't suck.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.6.x",
+    "express-delight": "0.1.x",
+    "levelup": "0.18.3",
+    "leveldown": "0.10.2",
+    "morgan": "1.1.x",
+    "msgpack": "0.2.x",
+    "socket.io": "1.0.x",
+    "winston": "0.7.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jmanero/diamonds.git"
+  },
+  "keywords": [
+    "graphite",
+    "carbon"
+  ]
+}
