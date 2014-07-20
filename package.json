@@ -1,5 +1,5 @@
 {
-  "name": "diamonds",
+  "name": "diamond",
   "version": "0.0.1",
   "author": "John Manero <john.manero@gmail.com>",
   "description": "Carbon that doesn't suck.",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jmanero/diamonds.git"
+    "url": "git@github.com:jmanero/diamond.git"
   },
   "keywords": [
     "graphite",

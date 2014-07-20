@@ -1,3 +1,3 @@
-:gem: Diamonds :gem:
+:gem: Diamond :gem:
 ====================
 A LevelDB-backed `carbon` API
