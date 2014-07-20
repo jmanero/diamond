@@ -12,7 +12,8 @@
     "morgan": "1.1.x",
     "msgpack": "0.2.x",
     "socket.io": "1.0.x",
-    "winston": "0.7.x"
+    "winston": "0.7.x",
+    "node-gc": "0.2.0"
   },
   "repository": {
     "type": "git",
